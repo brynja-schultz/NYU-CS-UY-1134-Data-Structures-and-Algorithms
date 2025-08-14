@@ -37,27 +37,6 @@ Assignments applied theoretical concepts to practical programming challenges usi
 
 ---
 
-## How to Run
-
-Compile and run using the Java compiler or your preferred IDE:
-
-```bash
-javac Main.java
-java Main
-```
-
-(Some assignments may have differently named main classes.)
-
----
-
-## What to Look For
-
-* Accurate, from-scratch implementations of classic data structures.
-* Clear comments explaining algorithm logic and design decisions.
-* Progressive complexity from foundational structures to advanced algorithms.
-
----
-
 ## Portfolio Note
 
 This project is part of my academic and professional coding portfolio.
